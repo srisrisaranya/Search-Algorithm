@@ -110,11 +110,16 @@ else:
 
 ```
 ## Sample Input and Output
-![SS 1](https://github.com/srisrisaranya/Search-Algorithm/assets/148516638/5f9643d3-8e12-4a56-849b-f46f53420eef)
-![SS 2](https://github.com/srisrisaranya/Search-Algorithm/assets/148516638/9a11b1a7-d427-4c88-84af-61d6bbe46902)
-![SS 3](https://github.com/srisrisaranya/Search-Algorithm/assets/148516638/e3df6a68-2e01-421a-ab01-646441448dd5)
+i)	#Use a linear search method to match the item in a list.
+![image](https://github.com/srisrisaranya/Search-Algorithm/assets/148516638/ea6a85f8-b834-4da0-923f-38ca58134c4a)
+
+ii)	# Find the element in a list using Binary Search(Iterative Method).
+![image](https://github.com/srisrisaranya/Search-Algorithm/assets/148516638/c39727c9-8292-4019-9696-1f831eebe309)
 
 
+iii)	# Find the element in a list using Binary Search (recursive Method).
+
+![image](https://github.com/srisrisaranya/Search-Algorithm/assets/148516638/da44a3a7-4d99-48ac-89dd-36901a3b27d0)
 
 
 
